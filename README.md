@@ -1,2 +1,2 @@
 # Trilha-Java-DIO
-Trilha Java Dios
+Trilha Java Dio
